@@ -1,1 +1,5 @@
 "# intelligence-artificielle" 
+---
+
+* php
+* prolog
